@@ -11,9 +11,9 @@ The topics aborded on this project were:
 -> Build DW ER model							v
 -> Create DW tables script						v
 -> Insert data script on extra tables					v
--> Privileges (only select privileges)
--> Create database link
--> Synonyms
+-> Privileges (only select privileges)					v
+-> Create database link							v
+-> Synonyms								v
 -> Procedures to insert data in facts and dimensions tables
 -> Functions
 

@@ -14,6 +14,6 @@ The topics aborded on this project were:
 -> Privileges (only select privileges)					v
 -> Create database link							v
 -> Synonyms								v
--> Procedures to insert data in facts and dimensions tables
--> Functions
+-> Procedures to insert data in facts and dimensions tables		v
+-> Functions								v
 

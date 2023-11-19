@@ -9,8 +9,8 @@ The topics aborded on this project were:
 -> Choose the facts							v
 -> Choose the dimensions						v
 -> Build DW ER model							v
--> Create DW tables script
--> Insert data script on extra tables
+-> Create DW tables script						v
+-> Insert data script on extra tables					v
 -> Privileges (only select privileges)
 -> Create database link
 -> Synonyms
